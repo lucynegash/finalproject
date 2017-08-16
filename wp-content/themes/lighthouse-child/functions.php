@@ -1,3 +1,5 @@
+//Enqueued child style//
+
 <?php
 function my_theme_enqueue_styles() {
 
@@ -11,6 +13,8 @@ function my_theme_enqueue_styles() {
     );
 }
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
+
+//Enqueued Google font 'Roboto Slab'//
 
 function load_google_fonts() {
 wp_register_style ('googleWebFonts', 'https://fonts.googleapis.com/css?family=Roboto+Slab');
