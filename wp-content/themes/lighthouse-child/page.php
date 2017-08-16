@@ -11,6 +11,8 @@
  * @package Lighthouse
  */
 
+/*Removed sidebar code to get page to stretch across screen*/
+
 get_header(); ?>
 
 		<div class="container">
