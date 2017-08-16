@@ -1,3 +1,6 @@
+<!--Added contact form in footer--!>
+
+
 <?php
 /**
  * The template for displaying the footer.
