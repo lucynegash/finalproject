@@ -1,3 +1,5 @@
+/*Commented out entire sidebar.php file*/
+
 <!--Remove all sidebars
 
 <?php
